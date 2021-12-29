@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chekuthan
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning use bots
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning to use bots
+
+
 
 <!---
 Chekuthan356/Chekuthan356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
